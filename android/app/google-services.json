@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "717910200022",
+    "project_id": "arshath-2cb9a",
+    "storage_bucket": "arshath-2cb9a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717910200022:android:bfd7f23d6bd56c68994377",
+        "android_client_info": {
+          "package_name": "com.example.ambul"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbTTx1L7WR6QgLLfAD7cupwc-ZG79wStY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717910200022:android:23ffaa1f3770e3bb994377",
+        "android_client_info": {
+          "package_name": "com.example.arshath"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbTTx1L7WR6QgLLfAD7cupwc-ZG79wStY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717910200022:android:46702d1bc0935351994377",
+        "android_client_info": {
+          "package_name": "com.example.one"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbTTx1L7WR6QgLLfAD7cupwc-ZG79wStY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717910200022:android:dfd6cb543f26f461994377",
+        "android_client_info": {
+          "package_name": "com.example.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbTTx1L7WR6QgLLfAD7cupwc-ZG79wStY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
